@@ -19,9 +19,9 @@
     ![Screenshot 2024-02-23 161037](https://github.com/nidaa-7/MapEZ_Geographic-Information-System/assets/136858218/4383a262-14bf-4e33-8168-89467dbc2d77)
     ![Screenshot 2024-02-23 161117](https://github.com/nidaa-7/MapEZ_Geographic-Information-System/assets/136858218/ac284299-2d9a-44e6-a458-cd67eb014f38)
   - #### Clicking on an icon enlarges it, and displays its category and name.
-    ![video1133915169 mp42024-02-2316-23-40-ezgif com-video-to-gif-converter](https://github.com/nidaa-7/MapEZ_Geographic-Information-System/assets/136858218/ac9c57a4-d25e-4918-ad16-d5038acf26e7)
-  - #### Users can select a category from the drop down menu. All the points of interest that belong to that category will show up on the map.
     ![video1133915169 mp42024-02-2316-32-00-ezgif com-video-to-gif-converter](https://github.com/nidaa-7/MapEZ_Geographic-Information-System/assets/136858218/35e18124-8c57-4f2c-9a71-06c6c4d952dc)
+  - #### Users can select a category from the drop down menu. All the points of interest that belong to that category will show up on the map.
+    ![video1133915169 mp42024-02-2316-23-40-ezgif com-video-to-gif-converter](https://github.com/nidaa-7/MapEZ_Geographic-Information-System/assets/136858218/ac9c57a4-d25e-4918-ad16-d5038acf26e7)
 
 ## Path Finding:
 - ### Clicking on two intersection will display the shortest legal path between them.
