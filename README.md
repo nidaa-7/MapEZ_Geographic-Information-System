@@ -41,7 +41,7 @@
 
 - ### Dijkstra vs A*:
   - #### Dijkstra's Algorithm:
-    - Slow: not as responsive as we woulf like it to be.
+    - Slow: not as responsive as we would like it to be.
   - #### A* Algorithm:
     - Fast: responsive, averaging 19.27ms for the more complex paths.
       
